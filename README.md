@@ -13,6 +13,10 @@
 
 You-Bee is a browser assistant powered by RAG (Retrieval-Augmented Generation) that lets you **chat with any YouTube video**. It extracts transcripts, builds a vector store for memory, and gives you intelligent answers based on video content — all without wasting time.
 
+## 📸 Screenshot
+
+![You-Bee Screenshot](./you-bee.jpeg)
+
 ---
 
 ## 🔥 Why I Built It
