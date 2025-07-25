@@ -1,0 +1,35 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.env
+*.env.*
+
+# Node.js (React frontend - you-bee)
+you-bee/node_modules/
+you-bee/.env
+you-bee/.next/
+you-bee/dist/
+you-bee/build/
+you-bee/.turbo/
+you-bee/.vite/
+you-bee/.eslintcache
+you-bee/coverage/
+
+# Python (Backend - ytbot)
+ytbot/__pycache__/
+ytbot/*.py[cod]
+ytbot/.env
+ytbot/venv/
+ytbot/.mypy_cache/
+ytbot/.pytest_cache/
+ytbot/.coverage
+ytbot/coverage.xml
+ytbot/htmlcov/
+ytbot/.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
